@@ -4,6 +4,10 @@ A simple, minimalist website for the CU Gastronomy Society
 
 ## Deployment
 
+## Credits
+
+Thanks to Hishand Studio for personal, non-commercial use of the Gyahegi font.
+
 
 ## License
 
