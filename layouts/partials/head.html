@@ -1,43 +1,35 @@
 <head>
   <meta charset="UTF-8" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- stylesheets -->
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-divider@1.0.0/dist/bulma-divider.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css"
-  />
-  <link rel="stylesheet" href="/css/bulma.min.css" />
+  <!-- stylesheets -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/styles.css" />
 
-    <!-- titles -->
+  <!-- titles -->
   {{ $title := print .Title " | " .Site.Title}} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }}
   <title>{{ $title }}</title>
   <meta property="og:title" content="{{ $title }}" />
 
-    <!-- search engines -->
+  <!-- favicon -->
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+  <!-- search engines -->
   {{ if .Params.noindex }}
   <meta name="robots" content="noindex" />
   {{ else }}
   <meta name="robots" content="noarchive" />
-  {{ end }} {{ if .IsHome }}
+  {{ end }}
+  {{ if .IsHome }}
   <meta name="description" content="{{ .Site.Params.description }}" />
   <meta property="og:description" content="{{ .Site.Params.description }}" />
   {{ else }}
-  <meta
-    name="description"
-    content="{{ .Params.summary | default .Description | default .Summary }}"
-  />
-  <meta
-    property="og:description"
-    content="{{ .Params.summary | default .Description | default .Summary }}"
-  />
+  <meta name="description" content="{{ .Params.summary | default .Description | default .Summary }}" />
+  <meta property="og:description" content="{{ .Params.summary | default .Description | default .Summary }}" />
   {{ end}}
+  <meta property="og:image" content="/images/logo.png" />
 </head>

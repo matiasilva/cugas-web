@@ -1,0 +1,14 @@
+<div class="col">
+    <div class="card shadow-sm">
+        {{ with .Resources.GetMatch "images/thumb.jpg" }}
+            {{ with .Resize "800x"}}
+            <img class="card-img-top" src="{{ .RelPermalink }}">
+            {{ end }}
+        {{ end }}
+      <div class="card-body">
+        <h5 class="card-title">{{ .Title }}</h5>
+        <h6 class="card-subtitle mb-2 text-muted">{{ .Date }}</h6>
+        <p class="card-text">{{ .Summary }}</p>
+      </div>
+    </div>
+</div>

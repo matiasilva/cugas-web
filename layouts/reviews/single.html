@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="container cugas-review-container my-4">
+    <h2 class="cugas-review-title mb-3">{{ .Title }}</h2>
+    <article class="cugas-review-lead mb-3">
+        <div class="p-4 bg-light rounded">
+            <ul class="cugas-icon-ul mb-0">
+                <li><i class="cugas-icon-li bi bi-patch-check"></i>
+                    <span class="fw-bold">Quality</span> &mdash; {{ range $i := (seq .Params.quality) }}⭐️{{end}}
+                </li>
+                <li><i class="cugas-icon-li bi bi-cash-coin"></i>
+                    <span class="fw-bold">Price</span> &mdash; {{ range $i := (seq .Params.price) }}💸{{end}}
+                </li>
+                {{ if .Params.contact }}
+                <li><i class="cugas-icon-li bi bi-share"></i>
+                    <span class="fw-bold">Contact</span> &mdash; <a href="https://www.instagram.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
+                </li>
+                {{ end }}
+                <li><i class="cugas-icon-li bi bi-geo-fill"></i>
+                    <span class="fw-bold">Location</span> &mdash; <span class="fst-italic">{{ .Params.location }}</span>
+                </li>
+            </ul>
+        </div>
+    </article>
+    <article class="cugas-review-intro">
+        {{ .Summary }}
+    </article>
+    <article class="cugas-review-body">
+        {{ $body := replace .Content .Summary "" }}
+        {{ $body | safeHTML }}
+    </article>
+</section>
+{{ end }}

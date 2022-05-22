@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>CU Gastronomy Society</title>
+    <meta
+      name="description"
+      content="Cambridge University Gastronomy Society unites all those with a shared love for food, drink, and good company."
+    />
+    <meta name="author" content="CUGAS" />
+
+    <meta
+      property="og:title"
+      content="Cambridge University Gastronomy Society"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://cugas.co.uk" />
+    <meta
+      property="og:description"
+      content="Cambridge University Gastronomy Society unites all those with a shared love for food, drink, and good company."
+    />
+    <meta property="og:image" content="/logo.png" />
+
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background-color: white;
+      }
+
+      .centered {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      }
+
+      .bounded {
+        max-width: 80%;
+        animation-duration: 6s;
+        animation-name: growshrink;
+        animation-iteration-count: infinite;
+      }
+
+        /*
+      .subtitle {
+        font-size: 2rem;
+        font-family: ;
+        color: #0f3b29;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 0;
+        animation-duration: 4s;
+        animation-name: growshrink;
+        animation-iteration-count: infinite;
+        text-shadow: 3px 3px #134832;
+      }*/
+
+      @keyframes growshrink {
+        0% {
+          transform: scale(1);
+        }
+
+        50% {
+          transform: scale(1.2);
+        }
+
+        100% {
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="centered">
+      <img class="bounded" src="/logo.png" />
+    </div>
+  </body>
+</html>
+
