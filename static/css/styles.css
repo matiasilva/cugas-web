@@ -1,5 +1,6 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
 
 @font-face {
     font-family: "Gyahegi";
@@ -56,11 +57,6 @@
     font-size: 20px;
 }
 
-.cugas-review-body p {
-    font-size: 18px;
-    font-weight: 300;
-}
-
 .cugas-review-intro {
     font-size: 22px;
     font-weight: 300;
@@ -84,6 +80,26 @@
     line-height: inherit;
 }
 
+.cugas-review-body p,ul {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.cugas-review-body ul {
+    list-style-type: none;
+}
+
+.cugas-review-body ul>li  {
+    text-indent: -1.4em;
+}
+
+.cugas-review-body ul>li:before {
+	font-family: 'bootstrap-icons';
+	content: "\F26D";
+	float: left;
+	width: 1.4em;
+}
+
 .cugas-review-body p:first-of-type:first-letter {
     float: left;
     font-size: 4rem;
@@ -91,4 +107,11 @@
     font-weight: bold;
     margin-right: 9px;
     font-family: 'Playfair Display SC', Georgia, "Times New Roman", serif;
+}
+
+/* home page */
+.cugas-home-review-title {
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
 }
