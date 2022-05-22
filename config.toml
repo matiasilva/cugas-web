@@ -2,3 +2,5 @@ baseURL = 'https://cugas.co.uk/'
 languageCode = 'en-us'
 title = 'CU Gastronomy Society'
 description = 'Cambridge University Gastronomy Society unites all those with a shared love for food, drink, and good company.'
+enableGitInfo = true
+disableKinds = ['taxonomy', 'term']
