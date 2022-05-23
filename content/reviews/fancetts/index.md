@@ -7,7 +7,7 @@ contact: fancettsbistro
 location: Mill Road, Cambridge
 ---
 
-Fancett’s is a small, cozy, family-style restaurant on Mill Road that serves a variety of seasonal European dishes.
+Fancett’s is a relaxed, cozy, family-style restaurant on Mill Road that serves a variety of seasonal European dishes.
 
 <!--more-->
 
