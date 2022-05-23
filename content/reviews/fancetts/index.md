@@ -11,7 +11,7 @@ Fancett’s is a relaxed, cozy, family-style restaurant on Mill Road that serves
 
 <!--more-->
 
-Having made many previous trips to Mill Road, we were surprised to learn of this restaurant’s existence. Its location is prime, sitting just shy of the railway bridge, but is so gracefully tucked away into the hustle and bustle of Mill Road. Its inconspicuous dark green storefront lettering and the bistro-inspired portière lends it a certain air of mystery too. We were drawn to it after looking at the Michelin Guide’s listings for Cambridge and were pleased to discover it received a mention after only a year of opening. Further investigation revealed that Fancett’s is family-run and that the menu is rotated weekly, two very promising signs in Cambridge’s chain-dominated restaurant landscape.
+Having made many previous trips to Mill Road, we were surprised to learn of this restaurant’s existence. Its location is prime, sitting just shy of the railway bridge, but is so gracefully tucked away into the hustle and bustle of Mill Road. Its inconspicuous dark green storefront lettering and the bistro-inspired *portière* lends it a certain air of mystery too. We were drawn to it after looking at the Michelin Guide’s listings for Cambridge and were pleased to discover it received a mention after only a year of opening. Further investigation revealed that Fancett’s is family-run and that the menu is rotated weekly, two very promising signs in Cambridge’s chain-dominated restaurant landscape.
  
 Our choices:
  
