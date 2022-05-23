@@ -10,11 +10,13 @@
                 <li><i class="cugas-icon-li bi bi-cash-coin"></i>
                     <span class="fw-bold">Price</span> &mdash; {{ range $i := (seq .Params.price) }}💸{{end}}
                 </li>
-                {{ if .Params.contact }}
                 <li><i class="cugas-icon-li bi bi-share"></i>
-                    <span class="fw-bold">Contact</span> &mdash; <a href="https://www.instagram.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
+                    <span class="fw-bold">Contact</span> &mdash;                {{ if .Params.contact }}
+                    <a href="https://www.instagram.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
+                    {{ else }}
+                    n/a
+                    {{ end }}
                 </li>
-                {{ end }}
                 <li><i class="cugas-icon-li bi bi-geo-fill"></i>
                     <span class="fw-bold">Location</span> &mdash; <span class="fst-italic">{{ .Params.location }}</span>
                 </li>

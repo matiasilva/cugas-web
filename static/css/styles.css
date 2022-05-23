@@ -115,3 +115,10 @@
     font-weight: 500;
     font-style: italic;
 }
+
+/* fonts */
+
+.cugas-accent {
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
