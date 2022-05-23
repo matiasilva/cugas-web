@@ -28,5 +28,8 @@
         {{ $body := replace .Content .Summary "" }}
         {{ $body | safeHTML }}
     </article>
+    <article>
+        <p class="text-muted">Visited {{ .Date.Format "Jan 2, 2006" }}</p>
+    </article>
 </section>
 {{ end }}
