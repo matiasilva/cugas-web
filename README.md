@@ -9,6 +9,15 @@ A simple, minimalist website for the CU Gastronomy Society.
 
 Thumbnail generation: `magick montage *.jpeg -geometry +18+18 thumb.jpg`
 
+File name randomization:
+
+```bash
+#!/bin/bash
+for f in *.jpg; do
+  mv "$f" $RANDOM-"$f"
+done
+```
+
 New review: `hugo new --kind review reviews/restaurant.md`
 
 ## Deployment
