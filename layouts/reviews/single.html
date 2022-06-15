@@ -12,7 +12,11 @@
                 </li>
                 <li><i class="cugas-icon-li bi bi-share"></i>
                     <span class="fw-bold">Contact</span> &mdash;                {{ if .Params.contact }}
+                    {{ if eq .Params.contact_type "fb" }}
+                    <a href="https://www.facebook.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
+                    {{ else }}
                     <a href="https://www.instagram.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
+                    {{ end }}
                     {{ else }}
                     n/a
                     {{ end }}
