@@ -17,7 +17,7 @@ This was our end-of-exams dinner (though admittedly a reason to have good food i
 
 The Oak Bistro is a characteristically small restaurant, family-owned and has a certain air of mystery, as it is almost hidden in a corner of Lensfield Road. Curiously, the restaurant is named after an ancient tree that once grew on the same spot of a restaurant. That spot was originally a historic coaching inn that was a welcome stop for travelers on the road to London. Nowadays, it is a restaurant offering high-quality elegant dining that follows traditional recipes in the heart of Cambridge. 
 
-As it was our end-of-exams dinner, we were pretty generous with our selection of dishes and wine. As we always do, we shared everything to be able to try the greatest number of different dishes and styles of food. 
+As it was our end-of-exams dinner, we were pretty generous with our selection of dishes and wine. As we always do, we shared everything to be able to try the greatest number of different dishes and styles of food. Of note that we received some complementary bread to start the meal that came with a flavorsome dip.
 
 Our choices: 
 
