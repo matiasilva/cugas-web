@@ -9,7 +9,7 @@ contact_type: fb
 location: Mill Road, Cambridge
 ---
 
-Tu Casa is a quaint tapas-bar-style restaurant on Mill Road that serves a variety of typical Spanish tapas and *raciones* from different Spanish regions and traditions. 
+Tu Casa is a quaint, simple restaurant on Mill Road that serves a variety of typical Spanish tapas and *raciones* from different Spanish regions and traditions. 
 
 <!--more-->
 
