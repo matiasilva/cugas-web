@@ -11,7 +11,7 @@
                     <span class="fw-bold">Price</span> &mdash; {{ range $i := (seq .Params.price) }}💸{{end}}
                 </li>
                 <li><i class="cugas-icon-li bi bi-share"></i>
-                    <span class="fw-bold">Contact</span> &mdash;                {{ if .Params.contact }}
+                    <span class="fw-bold">Contact</span> &mdash; {{ if .Params.contact }}
                     {{ if eq .Params.contact_type "fb" }}
                     <a href="https://www.facebook.com/{{ .Params.contact }}">@{{ .Params.contact }}</a>
                     {{ else }}
@@ -33,6 +33,43 @@
     <article class="cugas-review-body">
         {{ $body := replace .Content .Summary "" }}
         {{ $body | safeHTML }}
+    </article>
+    <article class="cugas-slideshow mb-3">
+        {{ $imgs := .Resources.Match "images/[1-9].jpeg" }}
+        {{ $imgs := sort $imgs (replaceRE `\d.jpeg` "$1" ".Name") }}
+        {{- $logo := resources.Get "images/watermark.png" }}
+        <div id="cugas-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                {{ range $i := seq 0 (sub (len $imgs) 1) }}
+                <button type="button" data-bs-target="#cugas-carousel" data-bs-slide-to="{{$i}}" {{ if eq $i 0 }}class="active"{{ end }}></button>
+                {{ end }}
+            </div>
+            <div class="carousel-inner">
+                {{ range $index, $val := $imgs }}
+                    {{ with $val.Resize "800x" }}
+                        {{- $size := math.Round (mul .Height 0.15) }}
+                        {{ $pad := math.Round (mul .Height 0.05) }}
+                        {{- $newLogo := $logo.Resize (printf "%.0fx" $size) }}
+                        {{ $posx := add $newLogo.Width $pad }}
+                        {{ $posy := add $newLogo.Width $pad }}
+                        {{ $logoFilter := (images.Overlay $newLogo (sub .Width $posx) (sub .Height $posy) ) }}
+                        {{ with .Filter $logoFilter}}
+                            <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+                                <img src="{{ .RelPermalink }}" class="d-block  w-100" alt="...">
+                            </div>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#cugas-carousel"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#cugas-carousel"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </button>
+        </div>
     </article>
     <article>
         <p class="text-muted">Visited {{ .Date.Format "Jan 2, 2006" }}</p>
