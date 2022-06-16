@@ -13,9 +13,9 @@ The Chop House is a traditional steakhouse in the heart of Cambridge a mere few 
 
 <!--more-->
 
-If we had to summarize the food in one line, we would definitely say that it’s a traditional British meat-based restaurant, specializing in diverse homegrown cuts and meat chops, with most of its produce sourced from within the UK.  The restaurant has 2 floors and extends onto an outdoor terrace, with its lower basement giving off the feeling of dining in a cave.
+If we had to summarize the food in one line, we would say that The Chop House is a traditional British meat-based restaurant, specializing in diverse homegrown cuts and meat chops, with most of its produce sourced from within the UK.  The restaurant has 2 floors and extends onto an outdoor terrace, with its lower basement giving off the atmosphere of a cave.
 
-We were quite reluctant to visit a restaurant on King’s Parade, as they tend to be tourist-oriented and its price-quality ratio higher than Cambridge's average. However, after we received some recommendations from friends and upon meeting a waiter from the house, we opted to give this restaurant an opportunity. 
+We were quite reluctant to visit a restaurant on King’s Parade, as they tend to be tourist-oriented and their price-quality ratio higher than Cambridge's average. However, after we received some recommendations from friends and upon meeting a waiter working there, we opted to give this restaurant a chance. 
 
 Its location at the end of King’s Parade is magnificent, as it provides a stunning view of King’s College through its huge glass windows that wrap around the restaurant’s corner location. Even though we were seated on the lower floor (and accordingly no such views for us), dining in its atmospheric cellars was an experience in itself. 
 
