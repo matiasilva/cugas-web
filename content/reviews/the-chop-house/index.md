@@ -37,6 +37,8 @@ This was definitely the best dish of our dinner. It was very tasty, cooked mediu
 
 * Apple crumble
 
-The dessert was reheated in a plate upon which it was half-stuck with an average quality vanilla ice-cream scoop put on top. Not bad, not good either. 
+The dessert was reheated in a bowl upon which it was half-stuck with an average quality vanilla ice-cream scoop put on top. A sweet and rounded way to end off the meal: not bad, not amazing. 
 
-To pair with the food we had a bottle of the House Red which was a Carignan from La Bastille. However, instead of bringing the bottle they brought a carafe (which the author has nothing against) as one would imagine that they bulk buy the house wine. Being truly honest, though, we have to say that this is probably the worst wine we have ever had in a restaurant in Cambridge. It was served warm, was very acidic and very high in alcohol with no fruit notes to enjoy. Definitely not a good choice! 
+To pair with the food we had a bottle of the House Red which was a Carignan from La Bastille. However, instead of bringing the bottle they brought a carafe (which the author has nothing against) as one would imagine that they bulk buy the house wine. Being truly honest, though, we have to say that this is probably the worst wine we have ever had in a restaurant in Cambridge. It was served warm, was very acidic and very high in alcohol with no fruit notes to enjoy. Definitely not a good choice!
+
+What disappointed us was not so much the quality of the food itself, but rather the experience as a whole for what we paid. Our visit to this restaurant in such a prime location at one of the most prestigious university towns in the world unfortunately left something to be desired.
