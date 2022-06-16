@@ -17,7 +17,7 @@ Going to Mill Road for dinners has already become a tradition for us, and with Ã
 
 It is well located, at the start of Mill Road and therefore within walking distance from Parkerâ€™s Piece, making it a very attractive place for lunch/dinner while having a stroll around Cambridge. 
 
-We passed by this restaurant many times before trying it, and as many different people recommended the place to us and assured us that it was worth it, we were decided to make a reservation! In the end, we were a table of 7 on this particular occasion as many friends who wanted to equally try the quality of Spanish food in Cambridge joined us.
+We had passed by this restaurant many times before and as many different people recommended the place to us and assured us that it was worth it, we decided to make a reservation! On this particular occasion, we were a table of 7 as many friends who wanted to equally try the quality of Spanish food in Cambridge joined us.
 
 By meeting the owners, we discovered that the restaurant is owned and fully managed by Spanish people, with all its chefs and waiters coming from different Spanish regions. This made the menu and atmosphere quite varied and very enriching. We found the service good and everyone in the restaurant was friendly.
 
