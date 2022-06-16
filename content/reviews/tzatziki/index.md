@@ -1,6 +1,6 @@
 ---
 title: "Tzatziki"
-date: 2022-06-3T10:52:19+01:00
+date: 2022-06-03T10:52:19+01:00
 publishDate: 2022-06-16T10:52:19+01:00
 quality: 4
 price: 2
