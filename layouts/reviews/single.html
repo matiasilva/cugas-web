@@ -37,7 +37,8 @@
     {{ $imgs := .Resources.Match "images/[1-9].jpeg" }}
     {{ $imgs := sort $imgs (replaceRE `\d.jpeg` "$1" ".Name") }}
     {{ if $imgs }}
-    <article class="cugas-slideshow mb-3">
+    <h2 class="mb-3">Gallery</h2>
+    <article class="cugas-slideshow mb-5">
         {{- $logo := resources.Get "images/watermark.png" }}
         <div id="cugas-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">

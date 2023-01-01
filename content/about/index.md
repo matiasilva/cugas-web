@@ -12,8 +12,8 @@ Even as a formal society, the humble principles it was founded on still stand: q
 
 ### About the committee
 
-Matias is a third-year engineering undergraduate at Girton College. He is half Portuguese and half Chinese and grew up in 7 countries.
+Matias is a fourth-year engineering undergraduate at Girton College. He is half Portuguese and half Chinese and grew up in 7 countries.
 
-Álvaro is a second-year economics undergraduate at Girton College. He is Spanish and grew up in Madrid.
+Álvaro is a third-year economics undergraduate at Girton College. He is Spanish and grew up in Madrid.
 
-Guillaume is a second-year history undergraduate at Selwyn College. He is a quarter Portuguese, a quarter English and half Belgian.
+Guillaume is a third-year history undergraduate at Selwyn College. He is a quarter Portuguese, a quarter English and half Belgian.

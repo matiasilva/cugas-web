@@ -18,7 +18,7 @@ for f in *.jpg; do
 done
 ```
 
-New review: `hugo new --kind review reviews/restaurant.md`
+New review: `hugo new -k reviews reviews/restaurant`
 
 ## Deployment
 
