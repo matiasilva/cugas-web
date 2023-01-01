@@ -31,3 +31,5 @@ We arrived at this dinner quite hungry and even though we had to wait nearly hal
 Furthermore, every dish was accompanied by a fresh salad, pita bread and homemade fries, expertly complementing the food we chose. We were also able to try their famous tzatziki, as it came along with some of the dishes we had ordered and was absolutely memorable. 
 
 To pair with the food, we chose a white Italian Baccolo as they only had one Greek wine, which we considered to be excessively overpriced (drinks were served by the pub owners and not by Tzatziki, who just manage the kitchen). However, the white Baccolo was very nice to pair with our food owing to its citric notes and moderate acidity, making it a perfect refreshing wine for a moderately warm start-of-summer night.
+
+Review co-written by Álvaro Martin and Matias Silva.

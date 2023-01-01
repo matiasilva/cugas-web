@@ -30,3 +30,5 @@ Definitely the best option for meat lovers. Very well grilled mix of lamb, pork,
 We accompanied our dinner with a bottle of Queen of Hearts: a coupage muscat and *Sauvignon Blanc* fresh white wine, from the Greek winemaker Nico Lazaridi. A wine that has great value for money!
 
 The Olive Grove is a solid choice for a casual dinner with friends or family in a slightly upscale setting.
+
+Review co-written by Álvaro Martin.

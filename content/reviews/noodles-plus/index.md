@@ -31,3 +31,5 @@ The restaurant offers a variety of noodle choices, but our favorite is the in-ho
 Noodles Plus+ is one of those restaurants that keeps true to its humble origins and these dumplings are the perfect example of this. At first sight, you’d be forgiven for thinking they were store bought: the golden sear on the bottom is uneven with some char, the skin is quite thick and the usual decorations like fancy braids on the edges are lacking. Taste aside, one could even go so far as to use ‘lackluster’ to describe them. That, however, is the point. At this restaurant, the focus is truly on the quality of the food - a ‘no frills’ approach. This dish was reminiscent of the many dumpling servings I had as a child at home and that’s what struck me the most about this place.
  
 If you’re craving quality noodles and dumplings or comfort food in a homey environment, you can never go wrong with a visit to Noodles Plus+. If our review doesn’t convince you, perhaps the constant queues till closing might...
+
+Review written by Matias Silva.

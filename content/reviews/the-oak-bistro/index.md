@@ -47,3 +47,5 @@ Wine to pair our dinner:
 To round off the review, the wine selection in the restaurant is spectacular, and our choice yielded very good results. The Pinot Noir had those characteristic red fruit notes and had very intense aromas. As it was a Gran Reserva it also had a quite notable tannin which made it even more appreciable and unique. One of the best wines we’ve had in a restaurant in Cambridge!
 
 All things considered, The Oak Bistro is one of Cambridge's best independent local bistros and definitely one of the best places to share a meal with friends and family.
+
+Review co-written by Álvaro Martin and Matias Silva.

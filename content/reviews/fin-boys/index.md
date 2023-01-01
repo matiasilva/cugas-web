@@ -35,3 +35,5 @@ The fish was perfectly done and very well cooked. The unique texture of the monk
 To pair with this assortment of dishes, we chose an organic white French wine: *L’imaginaire* (Trinités winemakers; small producers) made from a *Roussanne* grape. This moderately acidic, fresh and open wine was very versatile with the different styles of fish and seafood we had that day. *Roussanne* is a very tasty grape with very little sugar, so this dry French white was a noticeable selection to pair with our meal!
 
 As a final comment, we’d like to thank the extremely hospitable and friendly staff who were there to help at every stage of the meal and discussed our wine choice with us!
+
+Review co-written by Álvaro Martin and Matias Silva.

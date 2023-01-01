@@ -44,3 +44,6 @@ The *huevos rotos con chorizo* were really nice, as the eggs were perfectly frie
 The *gambas al ajillo* were perfectly cooked and the oil had an adequate garlic taste, as it would in Spain. However, the quality of the prawns wasn’t really high, which reduced the overall quality of the dish. Nonetheless, it was still good. 
 
 To pair with the food we ordered two bottles of white *Rueda* wine. Its fresh, white fruit aromas and refreshing flavor were perfect for a meal which brought together so many contrasting flavors. Two of us also ordered two glasses of red *Ribera del Duero* wine. Finally, for dessert, we all had a glass of sweet *Pedro Ximenez* wine, which is one of Álvaro’s favorites and was the icing on the cake of a fantastic dinner!
+
+Review written by Álvaro Martin.
+
