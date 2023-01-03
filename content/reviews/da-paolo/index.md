@@ -31,3 +31,5 @@ Authentic and true to its origins. Made with specialty coffee, giving a soft tex
 
 We accompanied the dinner with a bottle of *Le Altane, Sangiovese del Rubicone, 2020*. A soft but fruity young Italian wine, that perfectly suited the meal that combined fish and meat dishes. Its soft tanins and red fruit aromas allowed us to appreciate the fish while pairing perfectly with the stronger bolognese flavor.
 
+Review co-written by Álvaro Martin and Matias Silva.
+
