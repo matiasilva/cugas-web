@@ -14,7 +14,7 @@ Agora is a Turkish restaurant located in The Copper Kettle in Cambridge’s hist
 
 Before starting the review in earnest, we wanted to express our disappointment with our visit from the outset. While we try to give all restaurants a fair judgment, especially during our post-meal discussions at a café or pub, we found the price-to-quality ratio quite lacking at Agora. Even with its charming interior decoration, a fusion of the classic handmade copper crockery of Turkey with the English tudor-style architecture, Agora failed to impress us and very evidently lives up to its “tourist trap” allure.
 
-Agora is a restaurant opening exclusively for dinner housed in The Copper Kettle, a venue dating back to 1929 on King’s Parade. From our observations, the ownership of the day-time restaurant is the same but more tourist-appealing dishes such as continental brunch are swapped out to fully take advantage of the venue’s prime location. In the summer, tables and chairs are put out so customers can enjoy coffee and a meal while basking in the rare rays of British sun and the intricate facade of King’s College.
+Agora is a restaurant opened exclusively for dinner housed in The Copper Kettle, a venue dating back to 1929 on King’s Parade. From our observations, the ownership of the day-time restaurant is the same but more tourist-appealing dishes such as continental brunch are swapped out to fully take advantage of the venue’s prime location. In the summer, tables and chairs are put out so customers can enjoy coffee and a meal while basking in the rare rays of British sun and the impressive facade of King’s College.
 
 * Hot & cold mezze
 
@@ -30,6 +30,6 @@ To accompany the meal, we each had a glass of Turkish wine that we felt was over
 
 ### Concluding remarks
 
-We were promised quality Turkish food from a friendly recommendation, but instead we received dishes that were unimpressive with mediocre presentation at best and service incapable of making up for the faults of the meal. With this in mind, it’s no wonder we regularly pass the restaurant front with just a handful of tables sat on even the busiest of nights. Our verdict of Agora is that it is an uninspired interpretation of Turkish food lacking in rudimentary elements of food and presentation, piggybacking off its unbeatable location and correspondingly charging eye watering prices. It turns out you *can* judge a book by its cover.
+We were promised quality Turkish food from a friendly recommendation, but instead we received dishes that were unimpressive with mediocre presentation at best and service unable to make up for the faults of the meal. With this in mind, it’s no wonder we regularly pass the restaurant front with just a handful of tables sat on even the busiest of nights. Our verdict of Agora is that it is an uninspired interpretation of Turkish food lacking in rudimentary elements of food and presentation, piggybacking off its unbeatable location and correspondingly charging eye watering prices. It turns out you *can* judge a book by its cover.
 
 Review by Matias Silva.
