@@ -41,4 +41,4 @@ To pair with the food, especially with the lamb shoulder, our local wine sommeli
  
 *Review written while listening to the Ratatouille Main Theme song.*
 
-Review written Matias Silva.
+Review written by Matias Silva.

@@ -13,7 +13,7 @@ Tu Casa is a quaint, simple restaurant on Mill Road that serves a variety of typ
 
 <!--more-->
 
-Going to Mill Road for dinners has already become a tradition for us, and with Álvaro coming from Spain we needed to try this appealing Spanish tapas bar! 
+Going to Mill Road for dinners has already become a tradition for us, and with Álvaro being from Spain we needed to try this appealing Spanish tapas bar! 
 
 It is well located, at the start of Mill Road and therefore within walking distance from Parker’s Piece, making it a very attractive place for lunch/dinner while having a stroll around Cambridge. 
 
